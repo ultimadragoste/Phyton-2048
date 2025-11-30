@@ -1,5 +1,7 @@
 cara main game 2048
 
+* WAJIB masuk ke terminal untuk menjalankan game 2024 ini. (game tidak bisa di jalan jika hanya menekan tombol run)
+
 1. Gunakan tombol:
 - W untuk menggeser ke atas
 - A untuk menggeser ke kiri
@@ -17,3 +19,5 @@ cara main game 2048
 6. Game akan selesai jika board sudah penuh dan tidak ada angka yang bisa digabung lagi.
 
 7. Tekan Q kapan saja untuk exit dari game.
+
+8. Jika game over silahkan tekan tombol mana saja untuk keluar.
