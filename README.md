@@ -1,6 +1,6 @@
 cara main game 2048
 
-* WAJIB masuk ke terminal untuk menjalankan game 2024 ini. (game tidak bisa di jalan jika hanya menekan tombol run)
+* WAJIB masuk ke terminal untuk menjalankan game 2048 ini. (game tidak bisa di jalan jika hanya menekan tombol run)
 
 1. Gunakan tombol:
 - W untuk menggeser ke atas
